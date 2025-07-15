@@ -1,5 +1,5 @@
 git pull origin main
 
 git add .
-git commit -m "회원 도메인 개발"
+git commit -m "회원 서비스"
 git push
