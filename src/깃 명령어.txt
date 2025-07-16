@@ -1,5 +1,5 @@
 git pull origin main
 
 git add .
-git commit -m "주문과 할인 도메인 실행과 테스트"
+git commit -m "새로운 할인 정책 개발"
 git push
