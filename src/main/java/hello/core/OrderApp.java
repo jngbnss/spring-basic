@@ -20,7 +20,7 @@ public class OrderApp {
                 applicationContext.getBean("memberService",MemberService.class);
 
         OrderService orderService =
-                applicationContext.getBean("memberService",OrderService.class);
+                applicationContext.getBean("orderService",OrderService.class);
 
         long memberId = 1L;
         Member member = new Member(memberId, "memberA", Grade.VIP);
