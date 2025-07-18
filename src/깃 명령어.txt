@@ -1,5 +1,5 @@
 git pull origin main
 
 git add .
-git commit -m "AppConfig 스프링 기반으로 변경"
+git commit -m "웹 애플리케이션과 싱글톤"
 git push
