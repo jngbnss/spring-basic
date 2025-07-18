@@ -1,5 +1,5 @@
 git pull origin main
 
 git add .
-git commit -m "웹 애플리케이션과 싱글톤"
+git commit -m "컴포넌트 스캔 완료"
 git push
